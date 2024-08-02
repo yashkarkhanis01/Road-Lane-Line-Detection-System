@@ -64,7 +64,7 @@ The processed video with detected lane lines is saved in your project folder for
 
 ## ❤️ Contributors:
 <br>
-<a href="https://github.com/yashkarkhanis01/Text-to-Speech/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yashkarkhanis01/Text-to-Speech&&max=817" />
+<a href="https://github.com/yashkarkhanis01/Customer-Support-Chatbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yashkarkhanis01/Customer-Support-Chatbot&&max=817" />
 </a>
 </br>
