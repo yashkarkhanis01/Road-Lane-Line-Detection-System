@@ -21,8 +21,10 @@ The processed video with detected lane lines is saved in your project folder for
 
 ## 📸 Screenshot
 
-![Screenshot 1](https://github.com/yashkarkhanis01/Road-Lane-Line-Detection-System/tree/main/output/Manhattan_detection.avi)
-![Screenshot 2](https://github.com/yashkarkhanis01/Road-Lane-Line-Detection-System/tree/main/output/lane_detection.avi)
+[Watch Manhattan Detection Video](https://github.com/yashkarkhanis01/Road-Lane-Line-Detection-System/blob/main/output/Manhattan_detection.avi)
+
+[Watch Lane Detection Video](https://github.com/yashkarkhanis01/Road-Lane-Line-Detection-System/blob/main/output/lane_detection.avi)
+
 
 ## 🚀 How to Use
 1. **Clone the Repository:**
